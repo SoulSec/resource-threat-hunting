@@ -1,6 +1,6 @@
 # Resource Threat Detection and Hunting
 
-## X
+## CMC SOC TEAM (CMC INFOSEC)
 
 -   [Threat Detection and Hunting](#threat-detection-and-hunting)
     -   [Tools](#tools)
